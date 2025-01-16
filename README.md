@@ -1,2 +1,1 @@
-# file-manager-rust
-File Manager Rust
+# File Manager Rust

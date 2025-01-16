@@ -1,0 +1,14 @@
+------------------------------
+            General
+------------------------------
+
+? - open/close this help
+Esc/q/Ctrl-c - exit
+
+------------------------------
+            Files
+------------------------------
+
+Ctrl-h - toggle hidden files and directories
+d - move file to trash
+Ctrl-d - delete file permanently
